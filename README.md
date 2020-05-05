@@ -22,6 +22,7 @@ Acesse [https://finquest.netlify.app/](https://finquest.netlify.app/) para testa
 Tela de login: usuário: 123 e senha: 123.
 
 O projeto tem como intuito desmistificar a educação financeira e apagar o medo que as pessoas tem dela, mostrando que é nos pequenos hábitos onde moram as grandes mudanças na vida econômica. Utilizando da gameficação desse tema até então polêmico, temos desafios diários e simples que auxiliam as pessoas a entenderem um pouco mais sobre dinheiro e economias pessoais. Você ainda será capaz de adicionar amigos e ganhar medalhas no decorrer da sua jornada no aplicativo. Esperamos que você se divirta enquanto aprende e claro, que economize muito dinheiro.
+
 :us:
 Access [https://finquest.netlify.app/](https://finquest.netlify.app/) to test the functional version of the system.
 Login screen: user: 123 and password: 123.
