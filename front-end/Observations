@@ -1,0 +1,16 @@
+>> GERAIS <<
+
+RODAR:
+yarn start
+
+INSTALAR DEFINIÇÃO DE TIPOS:
+yarn add @types/styled-components -D (exemplo)
+
+>> FERRAMENTAS/CONCEITOS <<
+
+Javascript;
+Typescripy;
+Eslint;
+Prettier;
+Router DOM;
+Styled Components;
